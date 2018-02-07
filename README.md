@@ -1,0 +1,2 @@
+# doc
+upplýsingar fyrir verkefnið
